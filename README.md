@@ -1,2 +1,2 @@
-# ECanopy---Society-Management-System
+# ECanopy-Society-Management-System
 DATA TO BE ADDED
