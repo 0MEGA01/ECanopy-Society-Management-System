@@ -11,7 +11,7 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 ### 🌐 Landing Page
 > Clean landing page for initial navigation.
 
-![](docs/screenshots/05-Landing-Page/Landing-Page.png)
+![](Documents/screenshots/05-Landing-Page/Landing-Page.png)
 
 ---
 
