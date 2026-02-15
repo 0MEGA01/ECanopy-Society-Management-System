@@ -66,11 +66,11 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 
 | Amenities | Booking Page |
 |------|-----------|
-| ![](Documents/screenshots/03-resident/Resident-Amenities.png) | ![](Documents/screenshots/03-resident/Resident-Amenities-Booking-Page.png) |
+| ![](Documents/screenshots/03-resident/Resident-Amenities.png) | ![](Documents/screenshots/03-resident/Resident-Amenities-Booking-Page-2.png) |
 
 | Booked / Pending | Maintenance Billing |
 |------|-----------|
-| ![](Documents/screenshots/03-resident/Resident-Amenities-Booked-Pending.png) | ![](Documents/screenshots/03-resident/Resident-Maintainence-Billing.png) |
+| ![](Documents/screenshots/03-resident/Resident-Amenities-Booked-Pending-Approval-Page.png) | ![](Documents/screenshots/03-resident/Resident-Maintainence-Billing.png) |
 
 | Complaint Logger | Complaint Page |
 |------|-----------|
@@ -78,7 +78,7 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 
 | Marketplace | Email Confirmation |
 |------|-----------|
-| ![](Documents/screenshots/03-resident/Resident-Marketplace-Product-Listing.png) | ![](Documents/screenshots/03-resident/Resident-Email-Confirmation.png) |
+| ![](Documents/screenshots/03-resident/Resident-Marketplace-Product-Listing.png) | ![](Documents/screenshots/03-resident/Resident-Email-Confirmation-Amenities-Booking-Approval.png) |
 
 ---
 
