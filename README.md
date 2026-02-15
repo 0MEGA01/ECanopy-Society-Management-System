@@ -6,11 +6,86 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 
 ---
 
-## ⭐ Project Preview
+## ⭐ Project Preview (Screenshots)
 
-> This is the main Secretary dashboard (RBAC-based panel).
+### 🌐 Landing Page
+> Clean landing page for initial navigation.
 
-![Hero Preview](docs/screenshots/02-secretary/01-dashboard.png)
+![](docs/screenshots/05-Landing-Page/Landing-Page.png)
+
+---
+
+### 🔐 Super Admin Panel
+> Super Admin can manage societies, create secretaries, and control system-level configuration.
+
+| Login | Dashboard |
+|------|-----------|
+| ![](docs/screenshots/01-super-admin/Super-Admin-Login.png) | ![](docs/screenshots/01-super-admin/Super-Admin-Dashboard.png) |
+
+| Create Secretary | Create Societies |
+|------|-----------|
+| ![](docs/screenshots/01-super-admin/Super-Admin-Create-Secretary.png) | ![](docs/screenshots/01-super-admin/Super-Admin-Create-Societies.png) |
+
+| Manage Existing Societies | Manage Societies |
+|------|-----------|
+| ![](docs/screenshots/01-super-admin/Super-Admin-Manage-Existing-Societies.png) | ![](docs/screenshots/01-super-admin/Super-Admin-Manage-Societies.png) |
+
+---
+
+### 🏢 Secretary Panel
+> Secretary manages amenities, residents, complaints, notices, and society-level operations.
+
+| Login | Dashboard |
+|------|-----------|
+| ![](docs/screenshots/02-secretary/Secretary-Login.png) | ![](docs/screenshots/02-secretary/Secretary-Dashboard.png) |
+
+| Manage Users | Manage Amenities |
+|------|-----------|
+| ![](docs/screenshots/02-secretary/Secretary-Manage-Users.png) | ![](docs/screenshots/02-secretary/Secretary-Manage-Amenities.png) |
+
+| Add Amenities | Amenities Approval |
+|------|-----------|
+| ![](docs/screenshots/02-secretary/Secretary-Add-Amenities.png) | ![](docs/screenshots/02-secretary/Secretary-Amenities-Approval.png) |
+
+| Maintenance Billing | Society Grievance |
+|------|-----------|
+| ![](docs/screenshots/02-secretary/Secretary-Maintainence-Billing.png) | ![](docs/screenshots/02-secretary/Secretary-Society-Grievance-Page.png) |
+
+| Resident Onboarding | Security Onboarding |
+|------|-----------|
+| ![](docs/screenshots/02-secretary/Secretary-Resident-Onboard-Approval.png) | ![](docs/screenshots/02-secretary/Secretary-Security-Onboarding.png) |
+
+---
+
+### 🧑‍💼 Resident Panel
+> Residents can book amenities, raise complaints, pay maintenance, and use marketplace features.
+
+| Login | Dashboard |
+|------|-----------|
+| ![](docs/screenshots/03-resident/Resident-Login.png) | ![](docs/screenshots/03-resident/Resident-Dashboard.png) |
+
+| Amenities | Booking Page |
+|------|-----------|
+| ![](docs/screenshots/03-resident/Resident-Amenities.png) | ![](docs/screenshots/03-resident/Resident-Amenities-Booking-Page.png) |
+
+| Booked / Pending | Maintenance Billing |
+|------|-----------|
+| ![](docs/screenshots/03-resident/Resident-Amenities-Booked-Pending.png) | ![](docs/screenshots/03-resident/Resident-Maintainence-Billing.png) |
+
+| Complaint Logger | Complaint Page |
+|------|-----------|
+| ![](docs/screenshots/03-resident/Resident-Complaint-Logger.png) | ![](docs/screenshots/03-resident/Resident-Complaint.png) |
+
+| Marketplace | Email Confirmation |
+|------|-----------|
+| ![](docs/screenshots/03-resident/Resident-Marketplace-Product-Listing.png) | ![](docs/screenshots/03-resident/Resident-Email-Confirmation.png) |
+
+---
+
+### 📄 API Docs (Swagger)
+> Full REST API documented with Swagger UI.
+
+![](docs/screenshots/04-api-docs/swagger.png)
 
 ---
 
