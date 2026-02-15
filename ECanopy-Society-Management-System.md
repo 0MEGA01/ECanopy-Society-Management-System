@@ -74,7 +74,6 @@ Database Layer (MySQL)
 | **SUPER_ADMIN** | Full system access, society onboarding |
 | **ADMIN** | Manage buildings, flats, residents |
 | **RWA_SECRETARY** | Approve amenities, handle complaints, manage notices |
-| **RWA_PRESIDENT** | Oversight and reporting |
 | **SECURITY_GUARD** | Visitor logs and approvals workflow |
 | **RESIDENT** | Book amenities, raise complaints, pay bills |
 
@@ -88,7 +87,7 @@ Database Layer (MySQL)
 - Resident onboarding workflow (join requests)
 
 ### 🏊 Amenities Booking (Approval Workflow)
-- Resident books amenity → `PENDING`
+- Resident books amenity
 - Secretary approves/rejects
 - Resident receives email notification
 - Overlap detection to prevent double booking
@@ -100,21 +99,21 @@ Database Layer (MySQL)
 
 ### 🎫 Complaints & Helpdesk
 - Raise complaint
-- Chat/comments on complaint
-- Attachments upload
+- Chat/comments on complaint → `PENDING`
+- Attachments upload → `PENDING`
 - Status updates
 
 ### 💰 Maintenance Billing + Razorpay Payments
 - Bill generation
-- Online payment integration
-- Payment verification
+- Online payment integration → `PENDING`
+- Payment verification → `PENDING`
 
 ### 📢 Notice Board
 - Society announcements
-- Categorized notices
+- Categorized notices → `PENDING`
 
 ### 🛒 Marketplace
-- Resident buy/sell listing feature
+- Resident buy/sell listing feature → `PENDING`
 
 ---
 
