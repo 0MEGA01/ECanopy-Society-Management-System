@@ -227,34 +227,34 @@ cd ecanopy
 CREATE DATABASE ecanopy_master_db;
 ```
 
-3️⃣ Configure Environment Variables
+### 3️⃣ Configure Environment Variables
 # Database
 ```
 DB_PASSWORD=your_mysql_password
 ```
-# JWT
+### JWT
 ```
 JWT_SECRET=your_jwt_secret_key
 ```
-# Gmail SMTP
+### Gmail SMTP
 ```
 SMTP_USERNAME=your_email@gmail.com
 SMTP_PASSWORD=your_gmail_app_password
 ```
 
-# Razorpay
+### Razorpay
 ```
 RAZORPAY_KEY_ID=rzp_test_your_key
 RAZORPAY_KEY_SECRET=your_secret_key
 ```
 
-4️⃣ Run Backend
+### 4️⃣ Run Backend
 ```
 mvn clean install
 mvn spring-boot:run
 ```
 
-⚙️ Setup Instructions (Frontend)
+### ⚙️ Setup Instructions (Frontend)
 ```
 cd frontend
 npm install
