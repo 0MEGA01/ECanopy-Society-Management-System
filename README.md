@@ -155,11 +155,10 @@ Database Layer (MySQL)
 
 | Role | Responsibilities |
 |------|------------------|
-| **SUPER_ADMIN** | Full system access, society onboarding |
-| **ADMIN** | Manage buildings, flats, residents |
-| **RWA_SECRETARY** | Approve amenities, handle complaints, manage notices |
+| **SUPER_ADMIN** | Full system access, society onboarding, Manage buildings, flats |
+| **RWA_SECRETARY** | Manage Residents Onboarding, Approve and Manage amenities, handle complaints, manage notices |
 | **SECURITY_GUARD** | Visitor logs and approvals workflow |
-| **RESIDENT** | Book amenities, raise complaints, pay bills |
+| **RESIDENT** | Book amenities, raise complaints, pay bills, Buy and Sell Marketplace |
 
 ---
 
