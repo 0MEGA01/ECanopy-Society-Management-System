@@ -199,7 +199,7 @@ git clone <your-repo-url>
 cd ecanopy
 ```
 
-###2️⃣ Create MySQL Database
+### 2️⃣ Create MySQL Database
 ```
 CREATE DATABASE ecanopy_master_db;
 ```
