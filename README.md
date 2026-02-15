@@ -130,7 +130,7 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 ### Frontend
 - **React**
 - Role-based UI dashboards
-- Forms + modals + workflow pages
+- Forms + models + workflow pages
 
 ---
 
