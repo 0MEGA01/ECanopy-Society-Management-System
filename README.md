@@ -85,25 +85,26 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 ### 📄 API Docs (Swagger)
 > Full REST API documented with Swagger UI.
 
-| Swagger Overview | Swagger Schemas / Models |
-|------|-----------|
+|  |  |
+|------|------|
 | ![](Documents/screenshots/04-api-docs/Swagger-Doc-1.png) | ![](Documents/screenshots/04-api-docs/Swagger-Doc-2.png) |
 
-| Auth + Security APIs | Society / Admin APIs |
-|------|-----------|
+|  |  |
+|------|------|
 | ![](Documents/screenshots/04-api-docs/Swagger-Doc-3.png) | ![](Documents/screenshots/04-api-docs/Swagger-Doc-4.png) |
 
-| Amenities APIs | Complaints APIs |
-|------|-----------|
+|  |  |
+|------|------|
 | ![](Documents/screenshots/04-api-docs/Swagger-Doc-5.png) | ![](Documents/screenshots/04-api-docs/Swagger-Doc-6.png) |
 
-| Visitor Management APIs | Maintenance + Billing APIs |
-|------|-----------|
+|  |  |
+|------|------|
 | ![](Documents/screenshots/04-api-docs/Swagger-Doc-7.png) | ![](Documents/screenshots/04-api-docs/Swagger-Doc-8.png) |
 
-| Payments (Razorpay) APIs | Notices / Marketplace APIs |
-|------|-----------|
+|  |  |
+|------|------|
 | ![](Documents/screenshots/04-api-docs/Swagger-Doc-9.png) | ![](Documents/screenshots/04-api-docs/Swagger-Doc-10.png) |
+
 
 ---
 
