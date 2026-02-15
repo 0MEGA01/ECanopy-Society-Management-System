@@ -19,15 +19,15 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 > Super Admin can manage societies, create secretaries, and control system-level configuration.
 
 | Login | Dashboard |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/01-super-admin/Super-Admin-Login.png) | ![](Documents/screenshots/01-super-admin/Super-Admin-Dashboard.png) |
 
 | Create Secretary | Create Societies |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/01-super-admin/Super-Admin-Create-Secretary.png) | ![](Documents/screenshots/01-super-admin/Super-Admin-Create-Societies.png) |
 
 | Manage Existing Societies | Manage Societies |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/01-super-admin/Super-Admin-Manage-Existing-Societies.png) | ![](Documents/screenshots/01-super-admin/Super-Admin-Manage-Societies.png) |
 
 ---
@@ -36,19 +36,19 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 > Secretary manages amenities, residents, complaints, notices, and society-level operations.
 
 | Login | Dashboard |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/02-secretary/Secretary-Login.png) | ![](Documents/screenshots/02-secretary/Secretary-Dashboard.png) |
 
 | Manage Users | Manage Amenities |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/02-secretary/Secretary-Manage-Users.png) | ![](Documents/screenshots/02-secretary/Secretary-Manage-Amenities.png) |
 
 | Add Amenities | Amenities Approval |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/02-secretary/Secretary-Add-Amenities.png) | ![](Documents/screenshots/02-secretary/Secretary-Amenities-Approval.png) |
 
 | Maintenance Billing | Society Grievance |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/02-secretary/Secretary-Maintainence-Billing.png) | ![](Documents/screenshots/02-secretary/Secretary-Society-Grievance-Page.png) |
 
 | Resident Onboarding | Security Onboarding |
