@@ -20,15 +20,15 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 
 | Login | Dashboard |
 |------|-----------|
-| ![](docs/screenshots/01-super-admin/Super-Admin-Login.png) | ![](docs/screenshots/01-super-admin/Super-Admin-Dashboard.png) |
+| ![](Documents/screenshots/01-super-admin/Super-Admin-Login.png) | ![](Documents/screenshots/01-super-admin/Super-Admin-Dashboard.png) |
 
 | Create Secretary | Create Societies |
 |------|-----------|
-| ![](docs/screenshots/01-super-admin/Super-Admin-Create-Secretary.png) | ![](docs/screenshots/01-super-admin/Super-Admin-Create-Societies.png) |
+| ![](Documents/screenshots/01-super-admin/Super-Admin-Create-Secretary.png) | ![](Documents/screenshots/01-super-admin/Super-Admin-Create-Societies.png) |
 
 | Manage Existing Societies | Manage Societies |
 |------|-----------|
-| ![](docs/screenshots/01-super-admin/Super-Admin-Manage-Existing-Societies.png) | ![](docs/screenshots/01-super-admin/Super-Admin-Manage-Societies.png) |
+| ![](Documents/screenshots/01-super-admin/Super-Admin-Manage-Existing-Societies.png) | ![](Documents/screenshots/01-super-admin/Super-Admin-Manage-Societies.png) |
 
 ---
 
@@ -37,23 +37,23 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 
 | Login | Dashboard |
 |------|-----------|
-| ![](docs/screenshots/02-secretary/Secretary-Login.png) | ![](docs/screenshots/02-secretary/Secretary-Dashboard.png) |
+| ![](Documents/screenshots/02-secretary/Secretary-Login.png) | ![](Documents/screenshots/02-secretary/Secretary-Dashboard.png) |
 
 | Manage Users | Manage Amenities |
 |------|-----------|
-| ![](docs/screenshots/02-secretary/Secretary-Manage-Users.png) | ![](docs/screenshots/02-secretary/Secretary-Manage-Amenities.png) |
+| ![](Documents/screenshots/02-secretary/Secretary-Manage-Users.png) | ![](Documents/screenshots/02-secretary/Secretary-Manage-Amenities.png) |
 
 | Add Amenities | Amenities Approval |
 |------|-----------|
-| ![](docs/screenshots/02-secretary/Secretary-Add-Amenities.png) | ![](docs/screenshots/02-secretary/Secretary-Amenities-Approval.png) |
+| ![](Documents/screenshots/02-secretary/Secretary-Add-Amenities.png) | ![](Documents/screenshots/02-secretary/Secretary-Amenities-Approval.png) |
 
 | Maintenance Billing | Society Grievance |
 |------|-----------|
-| ![](docs/screenshots/02-secretary/Secretary-Maintainence-Billing.png) | ![](docs/screenshots/02-secretary/Secretary-Society-Grievance-Page.png) |
+| ![](Documents/screenshots/02-secretary/Secretary-Maintainence-Billing.png) | ![](Documents/screenshots/02-secretary/Secretary-Society-Grievance-Page.png) |
 
 | Resident Onboarding | Security Onboarding |
 |------|-----------|
-| ![](docs/screenshots/02-secretary/Secretary-Resident-Onboard-Approval.png) | ![](docs/screenshots/02-secretary/Secretary-Security-Onboarding.png) |
+| ![](Documents/screenshots/02-secretary/Secretary-Resident-Onboard-Approval.png) | ![](Documents/screenshots/02-secretary/Secretary-Security-Onboarding.png) |
 
 ---
 
@@ -62,30 +62,39 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 
 | Login | Dashboard |
 |------|-----------|
-| ![](docs/screenshots/03-resident/Resident-Login.png) | ![](docs/screenshots/03-resident/Resident-Dashboard.png) |
+| ![](Documents/screenshots/03-resident/Resident-Login.png) | ![](Documents/screenshots/03-resident/Resident-Dashboard.png) |
 
 | Amenities | Booking Page |
 |------|-----------|
-| ![](docs/screenshots/03-resident/Resident-Amenities.png) | ![](docs/screenshots/03-resident/Resident-Amenities-Booking-Page.png) |
+| ![](Documents/screenshots/03-resident/Resident-Amenities.png) | ![](Documents/screenshots/03-resident/Resident-Amenities-Booking-Page.png) |
 
 | Booked / Pending | Maintenance Billing |
 |------|-----------|
-| ![](docs/screenshots/03-resident/Resident-Amenities-Booked-Pending.png) | ![](docs/screenshots/03-resident/Resident-Maintainence-Billing.png) |
+| ![](Documents/screenshots/03-resident/Resident-Amenities-Booked-Pending.png) | ![](Documents/screenshots/03-resident/Resident-Maintainence-Billing.png) |
 
 | Complaint Logger | Complaint Page |
 |------|-----------|
-| ![](docs/screenshots/03-resident/Resident-Complaint-Logger.png) | ![](docs/screenshots/03-resident/Resident-Complaint.png) |
+| ![](Documents/screenshots/03-resident/Resident-Complaint-Logger.png) | ![](Documents/screenshots/03-resident/Resident-Complaint.png) |
 
 | Marketplace | Email Confirmation |
 |------|-----------|
-| ![](docs/screenshots/03-resident/Resident-Marketplace-Product-Listing.png) | ![](docs/screenshots/03-resident/Resident-Email-Confirmation.png) |
+| ![](Documents/screenshots/03-resident/Resident-Marketplace-Product-Listing.png) | ![](Documents/screenshots/03-resident/Resident-Email-Confirmation.png) |
 
 ---
 
 ### 📄 API Docs (Swagger)
 > Full REST API documented with Swagger UI.
 
-![](docs/screenshots/04-api-docs/swagger.png)
+![Swagger Overview](Documents/screenshots/04-api-docs/Swagger-Doc-1.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-2.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-3.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-4.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-5.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-6.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-7.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-8.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-9.png)
+![](Documents/screenshots/04-api-docs/Swagger-Doc-10.png)
 
 ---
 
@@ -197,65 +206,6 @@ Database Layer (MySQL)
 Once backend is running, Swagger is available at:
 
 http://localhost:8080/swagger-ui.html
-
-
----
-
-## 📸 Screenshots (Role-Based Panels)
-
-> ⚠️ **Important:** Before uploading screenshots to GitHub, replace real emails with dummy emails.
-
----
-
-### 🛡️ Super Admin Panel
-
-![Super Admin Dashboard](docs/screenshots/01-super-admin/01-dashboard.png)
-
-![Society Management](docs/screenshots/01-super-admin/02-society-management.png)
-
----
-
-### 🧑‍💼 Secretary Panel
-
-![Secretary Dashboard](docs/screenshots/02-secretary/01-dashboard.png)
-
-![Requests & Approvals](docs/screenshots/02-secretary/02-requests-approvals.png)
-
----
-
-### 🧑 Resident Panel
-
-![Resident Dashboard](docs/screenshots/03-resident/01-dashboard.png)
-
-![Amenity Booking](docs/screenshots/03-resident/02-amenity-booking.png)
-
-![Maintenance Bills](docs/screenshots/03-resident/03-maintenance-bills.png)
-
----
-
-### 📑 Swagger API Docs
-
-![Swagger Overview](docs/screenshots/04-api-docs/01-swagger-overview.png)
-
-<details>
-  <summary>📌 View more screenshots</summary>
-
-  #### Swagger Schemas / Models
-  ![](docs/screenshots/04-api-docs/02-swagger-schemas.png)
-
-  #### Resident - Complaints
-  ![](docs/screenshots/03-resident/04-complaints.png)
-
-  #### Resident - Notices
-  ![](docs/screenshots/03-resident/05-notices.png)
-
-  #### Resident - Marketplace
-  ![](docs/screenshots/03-resident/06-marketplace.png)
-
-  #### Resident - Visitor Logs
-  ![](docs/screenshots/03-resident/07-visitors.png)
-
-</details>
 
 ---
 
