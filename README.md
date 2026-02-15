@@ -1,8 +1,6 @@
 # 🏢 E-Canopy — Society Management System (Spring Boot + React)
 
-A full-stack **Society Management System** built with **Spring Boot + React** featuring  
-**Role-Based Access Control (RBAC)**, **Amenity Booking Workflow**, **Visitor Management**,  
-**Complaints Helpdesk**, **Maintenance Billing + Razorpay Payments**, and **Email Notifications**.
+A full-stack **Society Management System** built with **Spring Boot + React** featuring **Role-Based Access Control (RBAC)**, **Amenity Booking Workflow**, **Visitor Management**, **Complaints Helpdesk**, **Maintenance Billing + Razorpay Payments**, and **Email Notifications**.
 
 ---
 
