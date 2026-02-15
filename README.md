@@ -228,7 +228,7 @@ CREATE DATABASE ecanopy_master_db;
 ```
 
 ### 3️⃣ Configure Environment Variables
-# Database
+### Database
 ```
 DB_PASSWORD=your_mysql_password
 ```
