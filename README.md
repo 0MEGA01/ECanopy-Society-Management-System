@@ -61,11 +61,11 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 > Residents can book amenities, raise complaints, pay maintenance, and use marketplace features.
 
 | Login | Dashboard |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/03-resident/Resident-Login.png) | ![](Documents/screenshots/03-resident/Resident-Dashboard.png) |
 
 | Amenities | Booking Page |
-|------|-----------|
+|-----------|-----------|
 | ![](Documents/screenshots/03-resident/Resident-Amenities.png) | ![](Documents/screenshots/03-resident/Resident-Amenities-Booking-Page-2.png) |
 
 | Booked / Pending | Maintenance Billing |
