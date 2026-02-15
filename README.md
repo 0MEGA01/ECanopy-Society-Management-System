@@ -138,13 +138,14 @@ A full-stack **Society Management System** built with **Spring Boot + React** fe
 
 This project follows a clean **Layered Architecture**:
 
-Controller Layer (REST API)
-↓
-Service Layer (Business Logic)
-↓
-Repository Layer (JPA + Queries)
-↓
+Controller Layer (REST API) <br>
+↓ <br>
+Service Layer (Business Logic) <br>
+↓ <br>
+Repository Layer (JPA + Queries) <br>
+↓ <br>
 Database Layer (MySQL)
+
 
 ---
 
